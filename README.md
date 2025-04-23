@@ -13,6 +13,6 @@ Generalized Cross-Domain Anomaly Detection </strong></h1>
 
 ## 🏠 Introducing Seek4AD
 <!-- ![Teaser](assets/teaser.jpg) -->
-<div style="display: grid; place-items: center; height: 300px;">
+<div style="text-align: center;">
   <img src="Assets/mmexport1743135190316.jpg" alt="Dialogue_Teaser" style="width: 50%;">
 </div>
