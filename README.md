@@ -1,6 +1,7 @@
 <br>
 <p align="center">
-<h1 align="center"><strong>LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness</strong></h1>
+<h1 align="center"><strong>Seek4AD:AKnowledge-InfusedMultimodalLLMFrameworkfor
+GeneralizedCross-DomainAnomalyDetection</strong></h1>
   <p align="center">
 	<br>
     
