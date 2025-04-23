@@ -17,8 +17,7 @@ Generalized Cross-Domain Anomaly Detection </strong></h1>
 <img src="Assets/mmexport1743135190316.png" width="500" height="500"/>
 </div>
 Seek4AD, a multi-modal anomaly task assistant which search the knowledge base under a certain domain through ADSeeker. The Seek-Agent RAG framework of ADSeeker is tailored for seeking knowledge across the first anomaly detection knowledge
-base, ADSeek-Industry&Medical (ADSeek-I&M). To enhance the performance in Zero-Shot Anomaly Detection (ZSAD), Seek4AD leverages a Hierarchical Sparse Prompt (HSP) mechanism to efficiently extract the abnormal patterns from visual tokens. Furthermore, to tackle the challenge of limited IAD data, we introduce the largest-scale anomaly detection dataset Multi-type Anomaly (MulA), encompassing 72 multi-scale defect types across 8 scenarios. 
-
+base, ADSeek-Industry&Medical (ADSeek-I&M). To enhance the performance in Zero-Shot Anomaly Detection (ZSAD), Seek4AD leverages a Hierarchical Sparse Prompt (HSP) mechanism to efficiently extract the abnormal patterns from visual tokens. 
 ## 🔍 Model Architecture
 <!-- ![Teaser](assets/teaser.jpg) -->
 <p align="center">
