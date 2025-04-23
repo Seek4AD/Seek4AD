@@ -19,6 +19,7 @@ Generalized Cross-Domain Anomaly Detection </strong></h1>
 
 
 ## 🔍 Model Architecture
+<!-- ![Teaser](assets/teaser.jpg) -->
 <p align="center">
   <img src="Assets/seek4ad_3.png" align="center" width="100%">
 </p>
