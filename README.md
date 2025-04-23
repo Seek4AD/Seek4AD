@@ -24,7 +24,7 @@ base, ADSeek-I&M.
 <p align="center">
   <img src="Assets/mm.png" align="center" width="95%">
 </p>
-The architecture of Seek4AD. It consists of two main knowledge-infused pathways:(1)the query image is fed to the Seek-Agent and the mapping features extracted from linear layers are fed into ADSeeker to compute the similarity with visual embeddings of ADSeek to retrieve high-relevant domain knowledge.(2)The AD Expert integrates defect-region information involved in HSP and type-level features in learnable textual prompts as semantic-rich visual tokens which will be passed into LLM.
+The architecture of Seek4AD. It consists of two main knowledge-infused pathways:(1) the query image is fed to the Seek-Agent and the mapping features extracted from linear layers are fed into ADSeeker to compute the similarity with visual embeddings of ADSeek to retrieve high-relevant domain knowledge.(2) The AD Expert integrates defect-region information involved in HSP and type-level features in learnable textual prompts as semantic-rich visual tokens which will be passed into LLM.
 
 ## 📝 TODO List
 - \[x\] Release the Evaluation Metrics and Test Results.
