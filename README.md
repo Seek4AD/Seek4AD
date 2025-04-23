@@ -17,7 +17,7 @@ Generalized Cross-Domain Anomaly Detection </strong></h1>
 <img src="Assets/mmexport1743135190316.png" width="500" height="500"/>
 </div>
 Seek4AD, a multi-modal anomaly task assistant which search the knowledge base under a certain domain through ADSeeker. The Seek-Agent RAG framework of ADSeeker is tailored for seeking knowledge across the first anomaly detection knowledge
-base, ADSeek-Industry&Medical (ADSeek-I&M). 
+base, ADSeek-I&M. 
 
 ## 🔍 Model Architecture
 <!-- ![Teaser](assets/teaser.jpg) -->
