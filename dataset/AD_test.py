@@ -7,7 +7,7 @@ from config import DATA_ROOT
 ADT_CLS_NAMES = [
     'Aluminum Sheet Defect Detection using YOLO on VOC dataset', 
 ]
-ADT_ROOT = "/home/datasets/zk/AD_test/"
+ADT_ROOT = "/home/datasets/AD_test/"
 
 class ADTDataset(BaseDataset):
     def __init__(self, transform, target_transform, clsnames=ADT_CLS_NAMES, aug_rate=0.2, root=ADT_ROOT, training=True):
