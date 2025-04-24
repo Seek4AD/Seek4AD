@@ -31,4 +31,4 @@ The architecture of Seek4AD. It consists of two main knowledge-infused pathways:
 - \[ \] Release the training and inference code.
 - \[ \] Release the Checkpoint and Script.
 - \[ \] Release Gradio Demo.
-- \[ \] Release the MulA Dataset and the ADseeker I&M Knowledge Base.
+- \[ \] Release the MulA Dataset and the ADseeker-I&M Knowledge Base.
