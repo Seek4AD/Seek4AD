@@ -10,7 +10,7 @@ AD_CLS_NAMES = [
     'hollow_steels', 'NEU_DET', 'pige', 'Prailway', 'RSW_voc',
     'Tiles_white', 'Tiles_yellow', 'Welding_Surface_Defect_Dataset_in_VOC_Format', 'wire_rope', 'wood',
 ]
-AD_ROOT = "/home/datasets/zk/AD_dataset/"
+AD_ROOT = "/home/datasets/AD_dataset/"
 
 class ADDataset(BaseDataset):
     def __init__(self, transform, target_transform, clsnames=AD_CLS_NAMES, aug_rate=0.2, root=AD_ROOT, training=True):
