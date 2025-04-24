@@ -9,7 +9,7 @@ MVTEC_CLS_NAMES = [
     'hazelnut', 'leather', 'metal_nut', 'pill', 'screw',
     'tile', 'toothbrush', 'transistor', 'wood', 'zipper',
 ]
-MVTEC_ROOT = "/home/datasets/zk/mvtec_anomaly_detection/"
+MVTEC_ROOT = "/home/datasets/mvtec_anomaly_detection/"
 
 class MVTecDataset(BaseDataset):
     def __init__(self, transform, target_transform, clsnames=MVTEC_CLS_NAMES, aug_rate=0.2, root=MVTEC_ROOT, training=True):
