@@ -31,14 +31,14 @@ The architecture of Seek4AD. It consists of two main knowledge-infused pathways:
 1.Medical Anoamly Detection
 <!-- ![Teaser](assets/teaser.jpg) -->
 <p align="center">
-  <img src="Assets/medical.png" align="center" width="80%">
+  <img src="Assets/medical.png" align="center" width="70%">
 </p>
 2. Anoamly reasoning
 
 
 ## 📝 TODO List
 - \[x\] Release the Evaluation Metrics and Test Results.
-- \[ \] Release the training and inference code.
+- \[x\] Release the training and inference code.
 - \[ \] Release the Checkpoint and Script.
 - \[ \] Release Gradio Demo.
 - \[ \] Release the MulA Dataset and the ADseeker-I&M Knowledge Base.
