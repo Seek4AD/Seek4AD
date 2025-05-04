@@ -27,10 +27,13 @@ base, ADSeek-I&M.
 The architecture of Seek4AD. It consists of two main knowledge-infused pathways:(1) the query image is fed to the Seek-Agent and the mapping features extracted from linear layers are fed into ADSeeker to compute the similarity with visual embeddings of ADSeek to retrieve high-relevant domain knowledge.(2) The AD Expert integrates defect-region information involved in HSP and type-level features in learnable textual prompts as semantic-rich visual tokens which will be passed into LLM.
 
 ## 📈 Main Result
+
+1.Medical Anoamly Detection
 <!-- ![Teaser](assets/teaser.jpg) -->
 <p align="center">
-  <img src="Assets/medical.png" align="center" width="95%">
+  <img src="Assets/medical.png" align="center" width="80%">
 </p>
+2. Anoamly reasoning
 
 
 ## 📝 TODO List
