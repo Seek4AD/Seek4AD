@@ -34,7 +34,10 @@ The architecture of Seek4AD. It consists of two main knowledge-infused pathways:
   <img src="Assets/medical.png" align="center" width="70%">
 </p>
 2. Anoamly reasoning
-
+<!-- ![Teaser](assets/teaser.jpg) -->
+<p align="center">
+  <img src="Assets/vqa_result.png" align="center" width="70%">
+</p>
 
 ## 📝 TODO List
 - \[x\] Release the Evaluation Metrics and Test Results.
